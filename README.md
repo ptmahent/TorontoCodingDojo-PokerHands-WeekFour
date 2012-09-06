@@ -1,35 +1,18 @@
-# PokerHands
-
-FIXME: description
-
-## Installation
-
-Download from http://example.com/FIXME.
+# PokerHands Weeks Four and Five
 
 ## Usage
 
-FIXME: explanation
+This is an implementation of the Poker Hands kata http://codingdojo.org/cgi-bin/wiki.pl?KataPokerHands 
+done by the Toronto Coding Dojo over two two-hour sessions.
 
-    $ java -jar PokerHands-0.1.0-standalone.jar [args]
+To run test tests, install leiningen http://leiningen.org/, then   
 
-## Options
+    $ lein test
 
-FIXME: listing of options this app accepts.
+### Toronto Coding Dojo
 
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+We've been meeting Wednesdays: http://www.meetup.com/Toronto-Coding-Dojo
 
 ## License
 
-Copyright © 2012 FIXME
-
-Distributed under the Eclipse Public License, the same as Clojure.
+Public Domain
